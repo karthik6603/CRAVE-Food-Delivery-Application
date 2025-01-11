@@ -190,11 +190,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For support or queries:
-- Email: support@tapfoods.com
-- Issue Tracker: https://github.com/yourusername/tap-foods/issues
+- Email: karthik.p6603@gmail.com.com
 
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Karthik
 </div>
