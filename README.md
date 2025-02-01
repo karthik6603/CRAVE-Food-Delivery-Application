@@ -1,6 +1,5 @@
 # CRAVE-Food-Delivery-Application
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Java](https://img.shields.io/badge/Java-11%2B-orange)](https://www.oracle.com/java/)
 [![Spring](https://img.shields.io/badge/Spring-5.0%2B-green)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-blue)](https://www.mysql.com/)
